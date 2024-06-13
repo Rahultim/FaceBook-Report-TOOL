@@ -6,5 +6,5 @@
 
 # FaceBook Report TOOL
 
-<meta name="google-site-verification" content="nQ82aEwHKRupu7ptOc3uD1p2R1itN_oM8g-MqlrErCM" />s
+<meta name="google-site-verification" content="nQ82aEwHKRupu7ptOc3uD1p2R1itN_oM8g-MqlrErCM" />
 
